@@ -126,4 +126,3 @@ public class Inventory : MonoBehaviour
         _cursorTracked.GetComponent<Transform>().position = mouseWorldPos;
     }
 }
-
